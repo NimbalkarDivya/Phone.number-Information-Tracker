@@ -13,4 +13,4 @@ phonenumbers
 
 pycountry
 
-NumPy 
+NumPy
